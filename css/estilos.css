@@ -1,6 +1,6 @@
 body
 {
-    background: blue;
+    background: rgb(148, 148, 250);
     color: blueviolet;
     text-align: center;
     font-family: 'Gill Sans';
@@ -8,4 +8,20 @@ body
     padding: 0;
     margin: 0;
 
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
